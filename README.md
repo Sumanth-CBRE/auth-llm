@@ -57,8 +57,5 @@ main.py       # FastAPI app entry point
 - To use OpenAI or another LLM, update the backend `/auth/generate` endpoint to call your preferred API.
 - To change credit/token limits, update the logic in the backend.
 
-## License
-MIT
-
 ---
 **Author:** Sumanth ([GitHub](https://github.com/Sumanth-CBRE))
